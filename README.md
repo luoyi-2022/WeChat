@@ -1,4 +1,4 @@
-# daily_reminder
+# LuoYi
 微信天气推送
 
 模板内容如下：
